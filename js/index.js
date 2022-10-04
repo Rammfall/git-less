@@ -1,1 +1,1 @@
-alert('Hello');
+alert('Hello, its a main page');
